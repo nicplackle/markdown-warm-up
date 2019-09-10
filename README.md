@@ -1,5 +1,5 @@
 # Stal Francx
-[http://www.stalfrancx.net/index.html]
+[Website Stal Francx](http://www.stalfrancx.net/index.html)
 :horse:
 
 ## Analyzing Website: 
@@ -12,8 +12,8 @@
 * Not viewable on mobile devices (website is in fixed container, does not adapt to screen size)
 
 ### Code
-* Made with [www.websitex5.com] (Never updated the template since 06.10.2017)
-* Static/semantic website, while [www.websitex5.com] uses dynamic a cms system
+* Made with a template from [Website X5](https://www.website5.com) They never updated the template since 06.10.2017)
+* Static/semantic website, while [Website X5](https://www.websitex5.com) uses a dynamic cms system
 * The links 'uitklappen' and 'inklappen' don't work
 
 
